@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-goalApp/static/css/main.7ded5d0b.chunk.css",
+    "main.js": "/react-goalApp/static/js/main.54a569c4.chunk.js",
+    "main.js.map": "/react-goalApp/static/js/main.54a569c4.chunk.js.map",
+    "runtime-main.js": "/react-goalApp/static/js/runtime-main.39c64c79.js",
+    "runtime-main.js.map": "/react-goalApp/static/js/runtime-main.39c64c79.js.map",
+    "static/js/2.68a519ec.chunk.js": "/react-goalApp/static/js/2.68a519ec.chunk.js",
+    "static/js/2.68a519ec.chunk.js.map": "/react-goalApp/static/js/2.68a519ec.chunk.js.map",
+    "index.html": "/react-goalApp/index.html",
+    "static/css/main.7ded5d0b.chunk.css.map": "/react-goalApp/static/css/main.7ded5d0b.chunk.css.map",
+    "static/js/2.68a519ec.chunk.js.LICENSE.txt": "/react-goalApp/static/js/2.68a519ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39c64c79.js",
+    "static/js/2.68a519ec.chunk.js",
+    "static/css/main.7ded5d0b.chunk.css",
+    "static/js/main.54a569c4.chunk.js"
+  ]
+}
